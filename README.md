@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the FIPEX for ArcMap and DCI for R Homepage
 
 You can use the [editor on GitHub](https://github.com/goldford/FIPEX_with_DCI_Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
