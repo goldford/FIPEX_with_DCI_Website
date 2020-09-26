@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: FIPEX with the DCI 2020
+description: Homepage for the Fish Passage Extension (FIPEX) for ArcMap with the Dendritic Connectivity Index (DCI) for R
+show_downloads: true
+google_analytics:
