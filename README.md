@@ -1,6 +1,10 @@
 ## Welcome to the FIPEX for ArcMap and DCI for R Homepage
 
+![Image](https://github.com/goldford/FIPEX_with_DCI_Website/assets/images/twologos.jpg)
+
 You can use the [editor on GitHub](https://github.com/goldford/FIPEX_with_DCI_Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
