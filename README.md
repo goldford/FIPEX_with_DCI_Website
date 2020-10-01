@@ -2,10 +2,13 @@
 
 
 
+Hello and welcome! You've landed on the homepage for the FIPEX with DCI project. 
+
+
+![FIPEX-DCI link](./assets/images/FIPEX_DCI_link.png)
 
 You can use the [editor on GitHub](https://github.com/goldford/FIPEX_with_DCI_Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-![FIPEX-DCI link](./assets/images/FIPEX_DCI_link.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
