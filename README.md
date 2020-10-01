@@ -61,6 +61,27 @@ The following are the main features:
 6.	Assess the ‘sectional’ DCI for each barrier; evaluate the impact of individual barriers on directed connectivity with attention to natural vs artificial barriers.
 
 
+# Who is the Typical User of FIPEX?
+
+Ultimately, the goal of FIPEX is to provide the everyday user with a decision support tool for fish passage and riverine connectivity assessment.  Setup of FIPEX 10.4 is best done by an intermediate to advanced user of ArcGIS™ - typically a GIS technician or GIS specialist. Familiarity with the geometric network model (usage of the Utility Network Analyst toolbar) is an asset. 
+
+After a river network is created, barriers are organized and labelled, quality assurance on the data is done, FIPEX is installed, options are set, and preliminary tests are done, FIPEX can be used as a decision support tool by people without GIS skills. The flexibility offered by the toolset and advanced options such as coupling with the statistical software, 'R', mean that the typical user should have experience with ArcGIS and technical knowledge of windows-based software and operating systems.  
+
+
+# The Dendritic Connectivity Index (DCI)
+
+The Dendritic Connectivity Index (DCI) is a measure of longitudinal connectivity of a river system (Cote et al., 2009). 
+
+![network-model](./assets/images/cote2009figure.png)
+Cote, D., Kehler, D. G., Bourne, C., & Wiersma, Y. F. (2009). A new measure of longitudinal connectivity for stream networks. Landscape Ecology, 24(1), 101-113.
+
+The framework calculates the expected connectivity of a river system given the barriers present, barrier passability, barrier type, habitat quantity and river length. The DCI comes in several ‘flavours’: 
+* __DCI __diadromous __(DCId): connectivity to / from the sink or outflow
+* __DCI __potamodromous __(DCIp): connectivity to / from every river segment to every other river segment
+* __DCI __sectional __(DCIs): connectivity to / from a given segment
+* __DCI __(natural-only): connectivity considering only natural barriers
+* __DCI __with __distance __decay: connectivity considering maximum distance threshold or distance decay function (can be applied to any of the DCI ‘flavours’ above)
+
 
 
 You can use the [editor on GitHub](https://github.com/goldford/FIPEX_with_DCI_Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
