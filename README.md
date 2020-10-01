@@ -27,7 +27,7 @@ By using the geometric network model, the direction of flow can be set and netwo
 
 FIPEX is made freely available courtesy of various developers and sponsoring institutions over the years. 
 
-#FIPEX Overview
+# FIPEX Overview
 [back to top](#fipex-with-the-dci-2020-homepage)
 
 The Fish Passage Extension for ArcGIS 10.4 (FIPEX) with the Dendritic Connectivity Index (DCI) is a toolset for assessing the individual and cumulative effects of watercourse obstacles on the connectivity of river systems. FIPEX offers the ability to quantitatively assess the effects of real or anticipated barriers.  
@@ -64,6 +64,7 @@ The following are the main features:
 
 
 # Who is the Typical User of FIPEX?
+[back to top](#fipex-with-the-dci-2020-homepage)
 
 Ultimately, the goal of FIPEX is to provide the everyday user with a decision support tool for fish passage and riverine connectivity assessment.  Setup of FIPEX 10.4 is best done by an intermediate to advanced user of ArcGIS™ - typically a GIS technician or GIS specialist. Familiarity with the geometric network model (usage of the Utility Network Analyst toolbar) is an asset. 
 
@@ -71,6 +72,7 @@ After a river network is created, barriers are organized and labelled, quality a
 
 
 # The Dendritic Connectivity Index (DCI)
+[back to top](#fipex-with-the-dci-2020-homepage)
 
 The Dendritic Connectivity Index (DCI) is a measure of longitudinal connectivity of a river system (Cote et al., 2009). 
 
@@ -84,41 +86,3 @@ The framework calculates the expected connectivity of a river system given the b
 * __DCI__ __(natural-only)__: connectivity considering only natural barriers
 * __DCI__ __with__ __distance__ __decay__: connectivity considering maximum distance threshold or distance decay function (can be applied to any of the DCI ‘flavours’ above)
 
-
-
-You can use the [editor on GitHub](https://github.com/goldford/FIPEX_with_DCI_Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goldford/FIPEX_with_DCI_Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
