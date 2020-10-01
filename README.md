@@ -4,15 +4,15 @@
 
 You've landed on the homepage for the Fish Passage Extension (FIPEX) with Dendritic Connectivity Index (DCI) project. 
 
-The extensive fragmentation of river systems due to damming, road construction, and other development is a problem that many governments, academic institutions, communities, corporations, and environmental groups are trying to solve.  On the path to recovery of longitudinal connectivity (i.e., connectivity from headwaters to ocean / outflow) of river systems many questions arise, including:  
+The extensive fragmentation of river systems due to damming, road construction, and other development is a problem that many governments, academic institutions, communities, corporations, and environmental groups are trying to solve.  On the path to recovery of __longitudinal__ __connectivity__ (i.e., connectivity from headwaters to ocean / outflow) of river systems many questions arise, including:  
 
-•	How fragmented is a river system?
-•	How much of the fragmentation is due to anthropogenic barriers?
-•	How much does each barrier contribute to local fragmentation? 
-•	How much does each barrier contribute to system-wide fragmentation?
-•	How much habitat or proportion of the river will be restored or reconnected by a given project?
-•	What kind of habitat will be made available?
-•	How can limited funds be used most effectively?
+* How fragmented is a river system?
+* How much of the fragmentation is due to anthropogenic barriers?
+* How much does each barrier contribute to local fragmentation? 
+* How much does each barrier contribute to system-wide fragmentation?
+* How much habitat or proportion of the river will be restored or reconnected by a given project?
+* What kind of habitat will be made available?
+* How can limited funds be used most effectively?
 
 River systems present unique challenges when attempting to assess the impacts of barriers and costs/benefits of habitat restoration and connectivity projects, making answering the above questions difficult, time consuming, or both. The Fish Passage Extension (FIPEX) with Dendritic Connectivity Index (DCI) is designed to help address these challenging questions. 
 
