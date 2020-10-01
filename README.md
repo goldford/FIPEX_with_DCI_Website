@@ -76,11 +76,11 @@ The Dendritic Connectivity Index (DCI) is a measure of longitudinal connectivity
 Cote, D., Kehler, D. G., Bourne, C., & Wiersma, Y. F. (2009). A new measure of longitudinal connectivity for stream networks. Landscape Ecology, 24(1), 101-113.
 
 The framework calculates the expected connectivity of a river system given the barriers present, barrier passability, barrier type, habitat quantity and river length. The DCI comes in several ‘flavours’: 
-* __DCI __diadromous __(DCId): connectivity to / from the sink or outflow
-* __DCI __potamodromous __(DCIp): connectivity to / from every river segment to every other river segment
-* __DCI __sectional __(DCIs): connectivity to / from a given segment
-* __DCI __(natural-only): connectivity considering only natural barriers
-* __DCI __with __distance __decay: connectivity considering maximum distance threshold or distance decay function (can be applied to any of the DCI ‘flavours’ above)
+* __DCI__ __diadromous__ __(DCId)__: connectivity to / from the sink or outflow
+* __DCI__ __potamodromous__ __(DCIp)__: connectivity to / from every river segment to every other river segment
+* __DCI__ __sectional__ __(DCIs)__: connectivity to / from a given segment
+* __DCI__ __(natural-only)__: connectivity considering only natural barriers
+* __DCI__ __with__ __distance__ __decay__: connectivity considering maximum distance threshold or distance decay function (can be applied to any of the DCI ‘flavours’ above)
 
 
 
