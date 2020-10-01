@@ -1,4 +1,3 @@
-## Welcome to the FIPEX for ArcMap and DCI for R Homepage
 
 
 
