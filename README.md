@@ -94,19 +94,20 @@ Prior to installation please read and accept the [disclaimer and license](https:
 
 When redistributing this software, leveraging it, or presenting results based on the usage of this software we request that you adhere to the terms of license and provide attribution. 
 
-##Software Requirements
+## Software Requirements
 * Windows 10 Operating System (earlier versions of Windows may work but are untested)
 * ArcGIS 10.4+ Desktop™ Installed (Standard level license or above preferred for network editing tools)
 * The Microsoft .NET framework 4.5+ installed (usually installed automatically with ArcMap)
 
-##Hardware Requirements
+## Hardware Requirements
 * A PC Computer with 4Gb+ RAM 
 * 2.4Gb+ disk space (requirement for operation of ArcGIS™ Desktop)
 * CPU Speed 2.2Ghz+
 
-##Prerequisites
+## Prerequisites
 Prior to installation, ensure that the following requirements are met: 
 * ESRI™ ArcGIS™ 10.4+ is installed
 * ArcMap™, ArcCatalog™ and all other ArcGIS™ products are not running. 
 * You have Administrator level privileges on your computer (not required but preferred).
 
+More to come...
