@@ -86,3 +86,27 @@ The framework calculates the expected connectivity of a river system given the b
 * __DCI__ __(natural-only)__: connectivity considering only natural barriers
 * __DCI__ __with__ __distance__ __decay__: connectivity considering maximum distance threshold or distance decay function (can be applied to any of the DCI ‘flavours’ above)
 
+# Installation
+[back to top](#fipex-with-the-dci-2020-homepage)
+
+## License
+Prior to installation please read and accept the [disclaimer and license](https://github.com/goldford/FIPEX_with_DCI_Website/blob/master/LICENSE).  The FIPEX toolset is provided as is, where is.
+
+When redistributing this software, leveraging it, or presenting results based on the usage of this software we request that you adhere to the terms of license and provide attribution. 
+
+##Software Requirements
+* Windows 10 Operating System (earlier versions of Windows may work but are untested)
+* ArcGIS 10.4+ Desktop™ Installed (Standard level license or above preferred for network editing tools)
+* The Microsoft .NET framework 4.5+ installed (usually installed automatically with ArcMap)
+
+##Hardware Requirements
+* A PC Computer with 4Gb+ RAM 
+* 2.4Gb+ disk space (requirement for operation of ArcGIS™ Desktop)
+* CPU Speed 2.2Ghz+
+
+##Prerequisites
+Prior to installation, ensure that the following requirements are met: 
+* ESRI™ ArcGIS™ 10.4+ is installed
+* ArcMap™, ArcCatalog™ and all other ArcGIS™ products are not running. 
+* You have Administrator level privileges on your computer (not required but preferred).
+
