@@ -26,7 +26,7 @@ By using the geometric network model, the direction of flow can be set and netwo
 
 FIPEX is made freely available courtesy of various developers and sponsoring institutions over the years. 
 
-# FIPEX Overview
+(#FIPEX-Overview)
 
 The Fish Passage Extension for ArcGIS 10.4 (FIPEX) with the Dendritic Connectivity Index (DCI) is a toolset for assessing the individual and cumulative effects of watercourse obstacles on the connectivity of river systems. FIPEX offers the ability to quantitatively assess the effects of real or anticipated barriers.  
 
@@ -36,7 +36,9 @@ The following are the main features:
 1.	Summarize river quantity affected by one or many barriers, where habitat affected may be defined as: 
 
 	a)	habitat immediately upstream of a barrier (until the next barrier or headwaters)
+	
 	b)	habitat immediately downstream of a barrier (until the next barrier or headwaters)
+	
 	c)	total habitat upstream of a barrier (ignoring all other barriers)
 	
 	d)	total habitat downstream of a barrier (with the flow of the system, until the ocean / sink)
