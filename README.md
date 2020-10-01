@@ -34,11 +34,15 @@ The Fish Passage Extension for ArcGIS 10.4 (FIPEX) with the Dendritic Connectivi
 
 The following are the main features:   
 1.	Summarize river quantity affected by one or many barriers, where habitat affected may be defined as: 
-a)	habitat immediately upstream of a barrier (until the next barrier or headwaters)
-b)	habitat immediately downstream of a barrier (until the next barrier or headwaters)
-c)	total habitat upstream of a barrier (ignoring all other barriers)
-d)	total habitat downstream of a barrier (with the flow of the system, until the ocean / sink)
-e)	total habitat downstream of a barrier (ignoring flow direction)
+	a)	habitat immediately upstream of a barrier (until the next barrier or headwaters)
+	
+	b)	habitat immediately downstream of a barrier (until the next barrier or headwaters)
+	
+	c)	total habitat upstream of a barrier (ignoring all other barriers)
+	
+	d)	total habitat downstream of a barrier (with the flow of the system, until the ocean / sink)
+
+	e)	total habitat downstream of a barrier (ignoring flow direction)
 2.	Allow flexible definition of habitat quantity, allowing users to choose from: 
 a)	Length / linear network (e.g., metres)
 b)	Polygonal / area network (e.g., hectares) 
