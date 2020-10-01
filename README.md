@@ -77,7 +77,7 @@ After a river network is created, barriers are organized and labelled, quality a
 The Dendritic Connectivity Index (DCI) is a measure of longitudinal connectivity of a river system (Cote et al., 2009). 
 
 ![cote-2009](./assets/images/cote2009figure.PNG)
-Cote, D., Kehler, D. G., Bourne, C., & Wiersma, Y. F. (2009). A new measure of longitudinal connectivity for stream networks. Landscape Ecology, 24(1), 101-113.
+<font size="-2">Cote, D., Kehler, D. G., Bourne, C., & Wiersma, Y. F. (2009). A new measure of longitudinal connectivity for stream networks. Landscape Ecology, 24(1), 101-113.</font>
 
 The framework calculates the expected connectivity of a river system given the barriers present, barrier passability, barrier type, habitat quantity and river length. The DCI comes in several ‘flavours’: 
 * __DCI__ __diadromous__ __(DCId)__: connectivity to / from the sink or outflow
