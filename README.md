@@ -1,5 +1,6 @@
 
-#FIPEX with the DCI 2020 Homepage
+# FIPEX with the DCI 2020 Homepage
+
 ## Welcome! 
 
 You've landed on the homepage for the Fish Passage Extension (FIPEX) with Dendritic Connectivity Index (DCI) project. 
