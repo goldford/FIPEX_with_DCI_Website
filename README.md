@@ -1,6 +1,8 @@
 
 
-Hello and welcome! You've landed on the homepage for the FIPEX with DCI project. 
+# Welcome! 
+
+You've landed on the homepage for the Fish Passage Extension (FIPEX) with Dendritic Connectivity Index (DCI) project. 
 
 The extensive fragmentation of river systems due to damming, road construction, and other development is a problem that many governments, academic institutions, communities, corporations, and environmental groups are trying to solve.  On the path to recovery of longitudinal connectivity (i.e., connectivity from headwaters to ocean / outflow) of river systems many questions arise, including:  
 
@@ -23,6 +25,30 @@ The toolset is designed as an integrated 'Add-in' to the Geographic Information 
 By using the geometric network model, the direction of flow can be set and network analyses can be conducted without the need for Digital Elevation Models, careful attention to digitization direction, or other datasets; users simply need river lines  and a river outflow point. 
 
 FIPEX is made freely available courtesy of various developers and sponsoring institutions over the years. 
+
+# FIPEX Overview
+
+The Fish Passage Extension for ArcGIS 10.4 (FIPEX) with the Dendritic Connectivity Index (DCI) is a toolset for assessing the individual and cumulative effects of watercourse obstacles on the connectivity of river systems. FIPEX offers the ability to quantitatively assess the effects of real or anticipated barriers.  
+
+[Gabby's Video]
+
+The following are the main features:   
+1.	Summarize river quantity affected by one or many barriers, where habitat affected may be defined as: 
+a)	habitat immediately upstream of a barrier (until the next barrier or headwaters)
+b)	habitat immediately downstream of a barrier (until the next barrier or headwaters)
+c)	total habitat upstream of a barrier (ignoring all other barriers)
+d)	total habitat downstream of a barrier (with the flow of the system, until the ocean / sink)
+e)	total habitat downstream of a barrier (ignoring flow direction)
+2.	Allow flexible definition of habitat quantity, allowing users to choose from: 
+a)	Length / linear network (e.g., metres)
+b)	Polygonal / area network (e.g., hectares) 
+c)	Either (a) or (b) while excluding certain features (e.g., stillwater, wetland, lake 'spines')
+3.	Classify river and assess quantity by class (e.g., lakes, river, wetland, urban area). 
+4.	Exclude certain barriers (e.g., waterfalls) from analyses.
+5.	Calculate the Dendritic Connectivity Index (DCI): 
+a)	DCId where d stands for ‘diadromous’ connectivity; assessing connectivity from sources to sink. 
+b)	DCIp where p stands for ‘potamodromous’ connectivity; assessing connectivity within the system ignoring flow direction (i.e., undirected connectivity)
+6.	Assess the ‘sectional’ DCI for each barrier; evaluate the impact of individual barriers on directed connectivity with attention to natural vs artificial barriers.
 
 
 
