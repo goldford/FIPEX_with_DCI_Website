@@ -113,6 +113,7 @@ Prior to installation, ensure that the following requirements are met:
 More to come...
 
 # Acknowledgements
+[back to top](#fipex-with-the-dci-2020-homepage)
 
 Thanks to: 
 David Cote
