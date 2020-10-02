@@ -25,7 +25,7 @@ The toolset is designed as an integrated 'Add-in' to the Geographic Information 
 
 By using the geometric network model, the direction of flow can be set and network analyses can be conducted without the need for Digital Elevation Models, careful attention to digitization direction, or other datasets; users simply need river lines  and a river outflow point. 
 
-FIPEX is made freely available courtesy of various developers and sponsoring institutions over the years. 
+FIPEX is made freely available courtesy of [various developers and sponsoring institutions over the years.](#acknowledgements)
 
 # FIPEX Overview
 [back to top](#fipex-with-the-dci-2020-homepage)
