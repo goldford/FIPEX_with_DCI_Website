@@ -111,3 +111,39 @@ Prior to installation, ensure that the following requirements are met:
 * You have Administrator level privileges on your computer (not required but preferred).
 
 More to come...
+
+# Acknowledgements
+
+Thanks to: 
+David Cote
+Christopher Edge
+Phil Greyson
+Eldon Gunn
+Gabrielle Riefesel
+Sebastian Harder
+Dan Kehler
+David Longard
+Koreen Millard
+Peter Duinker
+Ken Meade
+Peter Rodger
+Donald Sam 
+Yolanda Wiersma
+
+Dalhousie University
+Fisheries & Oceans Canada
+Memorial University
+Parks Canada
+Natural Sciences & Engineering Research Council of Canada
+Nova Scotia Power Inc.
+
+Additional development sponsored by
+Fisheries & Oceans Canada - 2020 upgrade to 10.4+ 
+Parks Canada - DCI Integration and Upgrade from FIPEX version 2.3.x (for ArcGIS) 9.x to FiPEX 
+Parks Canada - version 10.23 for (ArcGIS 10.23, 10.3)
+
+FIPEX 1.0 (the "American Eel Decision Support Tool") created in 2008 by
+Fisheries and Oceans Canada, Habitat Management, Maritimes Region 
+
+Documentation created and updated by:
+Greig Oldford 
