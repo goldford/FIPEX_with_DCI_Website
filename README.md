@@ -115,7 +115,7 @@ More to come...
 # Acknowledgements
 [back to top](#fipex-with-the-dci-2020-homepage)
 
-Thanks to: 
+Thanks to:  
 David Cote  
 Christopher Edge  
 Phil Greyson  
