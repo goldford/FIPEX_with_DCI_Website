@@ -133,10 +133,10 @@ Prior to installation, ensure that the following requirements are met:
 ## R & DCI Model Setup
 [back to top](#fipex-with-the-dci-2020-homepage)
 
-1. Download and install [R-3.6.1](https://cran.r-project.org/bin/windows/base/old/3.6.1/) 
+1. <b>Download and install </b> [R-3.6.1](https://cran.r-project.org/bin/windows/base/old/3.6.1/) 
 (FIPEX has been tested with R 3.6.1 and R 3.6.3 and it is likely compatible with all R 3.6.x versions. If you already have one of these versions installed, you do should not need to re-install)
   ![4_R_downloadlink.png](./assets/images/4_R_downloadlink.png)
-2. To install the required R packages, you can use a variety of methods. The instructions below are based on the RGUI interface bundled with R 3.6.x, though we recommend installing RStudio. 
+2. To install the required R packages, you can use a variety of methods. The instructions below are based on the RGUI interface bundled with R 3.6.x.  
 <b>Launch the RGUI program</b> (In the Windows 'Start Menu' under R, you should see the RGUI program). 
   ![4_R_GUI.png](./assets/images/4_R_GUI.png)
 3. Go to <b>Packages-> Install Packages</b> and select a CRAN mirror near you and click __OK__
@@ -146,7 +146,8 @@ Prior to installation, ensure that the following requirements are met:
 6. Go to <b>Packages -> Install Packages</b> and find and install __data.table__
 7. Now using the BiocManager install two 'sub-packages': <b>type into the command line BiocManager::install(c("RBGL", "Rgraphviz"))</b>
   ![4_install_RBGL.png](./assets/images/4_install_RBGL.png)
-
+8. Lastly, <b>download and unzip the [DCI Model files](https://github.com/goldford/FIPEX-with-the-DCI-10.4/zipball/master) to a folder of your choosing</b> that you have read/write access to (e.g., /My Documents). 
+9. <b>You should be ready to open ArcMap and start analyzing rivers!</b>
 
 # Acknowledgements
 [back to top](#fipex-with-the-dci-2020-homepage)
