@@ -55,13 +55,16 @@ The following are the main features:
 	
 	c)	Either (a) or (b) while excluding certain features (e.g., stillwater, wetland, lake 'spines')
 	
-3.	<b>Classify river segments and summarize habitat by class</b> (e.g., lakes, river, wetland, urban area). 
+3.	<b>Classify river segments and summarize habitat by class</b> (e.g., lakes, river, wetland, urban area).
+
 4.	<b>Exclude certain barriers or features</b> (e.g., waterfalls, poor fish habitat) from analyses.
+
 5.	Calculate the <b>Dendritic Connectivity Index (DCI)</b>: 
 	
 	a)	DCId where d stands for ‘diadromous’ connectivity; assessing connectivity from sources to sink. 
 	
 	b)	DCIp where p stands for ‘potamodromous’ connectivity; assessing connectivity within the system ignoring flow direction (i.e., undirected connectivity)
+	
 6.	<b>Assess ‘sectional’ DCI</b> for each barrier; evaluate the impact of individual barriers on directed connectivity with attention to natural vs artificial barriers.
 
 
