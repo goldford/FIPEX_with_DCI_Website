@@ -117,22 +117,17 @@ Prior to installation, ensure that the following requirements are met:
   ![FIPEX_files.png](./assets/images/FIPEX_files.png)
 2. Open __ArcMap__
 3. Go to the __'Customize'__ Menu -> __'Add-In __Manager'__
-4. Look at second tab 'Options': check that 'load all add-ins without restrictions' is checked. Click 'Add Folder…' and select the FIPEX Add-in folder you chose in step (1).
+4. Look at second tab __'Options'__: check that __'load __all__ __add-ins__ __without__ __restrictions'__ is checked. Click __'Add__ __Folder__…' and select the FIPEX Add-in folder you chose in step (1).
   ![4_addinmanager_opt](./assets/images/4_addinmanager_opt.png)
-5.	Click ‘Close’ and restart ArcMap (close ArcCatalog and any other ESRI ArcGIS Desktop programs) 
-6.	Go to 'Customize' -> 'Extensions' and check The Fish Passage Extension Add-In for ArcMap.  
-
-![4_extensions_FIPEX.png](./assets/images/4_extensions_FIPEX.png)
-
-7. Go to 'Customize' -> 'Toolbars' 
-8. Check that the FIPEX Toolbar is activated.  Also activate the Utility Network Analyst Toolbar. 
+5. Click __Close__ and __restart__ __ArcMap__ (close ArcCatalog and any other ESRI ArcGIS Desktop programs) 
+6. Go to __Customize__ -> __Extensions__ and check The Fish Passage Extension Add-In for ArcMap.  
+  ![4_extensions_FIPEX.png](./assets/images/4_extensions_FIPEX.png)
+7. Go to __Customize__ -> __Toolbars__ 
+8. Check that the __FIPEX__ __Toolbar__ is activated.  Also activate the <b>Utility Network Analyst Toolbar</b>. 
 9. The FIPEX Toolbar should now be present but not selectable.  It will remain not selectable until it detects a layer that is a member of a geometric network is present in the map document.  
-
-![4_toolbar_inactive.png](./assets/images/4_toolbar_inactive.png)
-
+  ![4_toolbar_inactive.png](./assets/images/4_toolbar_inactive.png)
 10. Go to the 'Customize' Menu -> 'Add-In Manager'. The Fish Passage Extension will be listed under the 'Add-Ins' tab if installed correctly.
-
-![4_addinmanager_addins.png](./assets/images/4_addinmanager_addins.png)
+  ![4_addinmanager_addins.png](./assets/images/4_addinmanager_addins.png)
 
 ## R & DCI Model Setup
 [back to top](#fipex-with-the-dci-2020-homepage)
