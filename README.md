@@ -113,16 +113,12 @@ Prior to installation, ensure that the following requirements are met:
 ## FIPEX Installation
 [back to top](#fipex-with-the-dci-2020-homepage)
 
-1.	Download and unzip the FIPEX files from the Github link above to a folder of your choosing.
-
-![FIPEX_files.png](./assets/images/FIPEX_files.png)
-
-2. Open ArcMap
-3. Go to the 'Customize' Menu -> 'Add-In Manager'
+1. __Download__ and __unzip__ the FIPEX files from the Github link above to a folder of your choosing.
+  ![FIPEX_files.png](./assets/images/FIPEX_files.png)
+2. Open __ArcMap__
+3. Go to the __'Customize'__ Menu -> __'Add-In __Manager'__
 4. Look at second tab 'Options': check that 'load all add-ins without restrictions' is checked. Click 'Add Folder…' and select the FIPEX Add-in folder you chose in step (1).
-
-![4_addinmanager_opt](./assets/images/4_addinmanager_opt.png)
-
+  ![4_addinmanager_opt](./assets/images/4_addinmanager_opt.png)
 5.	Click ‘Close’ and restart ArcMap (close ArcCatalog and any other ESRI ArcGIS Desktop programs) 
 6.	Go to 'Customize' -> 'Extensions' and check The Fish Passage Extension Add-In for ArcMap.  
 
