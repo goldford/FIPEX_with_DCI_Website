@@ -35,32 +35,28 @@ The Fish Passage Extension for ArcGIS 10.4 (FIPEX) with the Dendritic Connectivi
 [Gabby's Video]
 
 The following are the main features:   
-1.	Summarize river quantity affected by one or many barriers, where habitat affected may be defined as: 
+1.	<b>Summarize river quantity affected by one or many barriers</b>, where habitat affected may be defined as: 
 
 	a)	habitat immediately upstream of a barrier (until the next barrier or headwaters)
-	
 	b)	habitat immediately downstream of a barrier (until the next barrier or headwaters)
-	
 	c)	total habitat upstream of a barrier (ignoring all other barriers)
-	
 	d)	total habitat downstream of a barrier (with the flow of the system, until the ocean / sink)
-
 	e)	total habitat downstream of a barrier (ignoring flow direction)
-2.	Allow flexible definition of habitat quantity, allowing users to choose from: 
+2.	<b>Allow flexible definition of habitat quantity</b>, allowing users to choose from: 
 	
 	a)	Length / linear network (e.g., metres)
 	
 	b)	Polygonal / area network (e.g., hectares) 
 	
 	c)	Either (a) or (b) while excluding certain features (e.g., stillwater, wetland, lake 'spines')
-3.	Classify river and assess quantity by class (e.g., lakes, river, wetland, urban area). 
-4.	Exclude certain barriers (e.g., waterfalls) from analyses.
-5.	Calculate the Dendritic Connectivity Index (DCI): 
+3.	<b>Classify river segments and summarize habitat by class</b> (e.g., lakes, river, wetland, urban area). 
+4.	<b>Exclude certain barriers or features</b> (e.g., waterfalls, poor fish habitat) from analyses.
+5.	Calculate the <b>Dendritic Connectivity Index (DCI)</b>: 
 	
 	a)	DCId where d stands for ‘diadromous’ connectivity; assessing connectivity from sources to sink. 
 	
 	b)	DCIp where p stands for ‘potamodromous’ connectivity; assessing connectivity within the system ignoring flow direction (i.e., undirected connectivity)
-6.	Assess the ‘sectional’ DCI for each barrier; evaluate the impact of individual barriers on directed connectivity with attention to natural vs artificial barriers.
+6.	<b>Assess ‘sectional’ DCI</b> for each barrier; evaluate the impact of individual barriers on directed connectivity with attention to natural vs artificial barriers.
 
 
 # Who is the Typical User of FIPEX?
