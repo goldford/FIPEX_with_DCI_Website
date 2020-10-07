@@ -126,8 +126,9 @@ Prior to installation, ensure that the following requirements are met:
 8. Check that the __FIPEX__ __Toolbar__ is activated.  Also activate the <b>Utility Network Analyst Toolbar</b>. 
 9. The FIPEX Toolbar should now be present but not selectable.  It will remain not selectable until it detects a layer that is a member of a geometric network is present in the map document.  
   ![4_toolbar_inactive.png](./assets/images/4_toolbar_inactive.png)
-10. Go to the 'Customize' Menu -> 'Add-In Manager'. The Fish Passage Extension will be listed under the 'Add-Ins' tab if installed correctly.
+10. Go to the __Customize__ __Menu__ -> <b>'Add-In Manager'</b>. The Fish Passage Extension will be listed under the 'Add-Ins' tab if installed correctly.
   ![4_addinmanager_addins.png](./assets/images/4_addinmanager_addins.png)
+11. <b>You're done installing FIPEX</b>. If you wish to calculate the Dendritic Connectivity Index using R, continue with the install of R with DCI Model below!
 
 ## R & DCI Model Setup
 [back to top](#fipex-with-the-dci-2020-homepage)
