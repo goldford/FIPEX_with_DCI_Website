@@ -37,7 +37,7 @@ The Fish Passage Extension for ArcGIS 10.4 (FIPEX) with the Dendritic Connectivi
   <iframe src="https://youtu.be/CncOLLe6Org" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>-->
 <!-- blank line -->
-<a href="https://www.youtube.com/watch?v=CncOLLe6Org"><img src="./assets/images/youtubeimage.png" scale="0" width="300px%"></a>
+<a href="https://www.youtube.com/watch?v=CncOLLe6Org"><img src="./assets/images/youtubeimage.png" scale="0" width="400px%"></a>
 <!--[![Watch the video](./assets/images/youtubeimage.png)](https://www.youtube.com/watch?v=CncOLLe6Org)-->
 
 The following are the main features:   
