@@ -30,8 +30,7 @@ FIPEX is made freely available courtesy of [various developers and sponsoring in
 # FIPEX Overview
 [back to top](#fipex-with-the-dci-2020-homepage)
 
-The Fish Passage Extension for ArcGIS 10.4 (FIPEX) with the Dendritic Connectivity Index (DCI) is a toolset for assessing the individual and cumulative effects of watercourse obstacles on the connectivity of river systems. FIPEX offers the ability to quantitatively assess the effects of real or anticipated barriers.  
-
+### [Watch the video!](https://www.youtube.com/watch?v=CncOLLe6Org)
 <!-- blank line -->
 <!--<figure class="video_container">
   <iframe src="https://youtu.be/CncOLLe6Org" frameborder="0" allowfullscreen="true"> </iframe>
@@ -39,6 +38,8 @@ The Fish Passage Extension for ArcGIS 10.4 (FIPEX) with the Dendritic Connectivi
 <!-- blank line -->
 <a href="https://www.youtube.com/watch?v=CncOLLe6Org"><img src="./assets/images/youtubeimage.png" scale="0" width="400px%"></a>
 <!--[![Watch the video](./assets/images/youtubeimage.png)](https://www.youtube.com/watch?v=CncOLLe6Org)-->
+
+The Fish Passage Extension for ArcGIS 10.4 (FIPEX) with the Dendritic Connectivity Index (DCI) is a toolset for assessing the individual and cumulative effects of watercourse obstacles on the connectivity of river systems. FIPEX offers the ability to quantitatively assess the effects of real or anticipated barriers.  
 
 The following are the main features:   
 1.	<b>Summarize river quantity affected by one or many barriers</b>, where habitat affected may be defined as: 
