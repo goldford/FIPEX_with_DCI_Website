@@ -1,5 +1,5 @@
 
-# FIPEX with the DCI 2020 Homepage
+# FIPEX with the DCI Homepage
 
 ## Welcome! 
 
