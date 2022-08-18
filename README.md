@@ -30,7 +30,7 @@ FIPEX is made freely available courtesy of [various developers and sponsoring in
 # FIPEX Overview
 [back to top](#fipex-with-the-dci-2020-homepage)
 
-### [Watch the video!](https://www.youtube.com/watch?v=CncOLLe6Org)
+### [Intro Video](https://www.youtube.com/watch?v=CncOLLe6Org)
 <!-- blank line -->
 <!--<figure class="video_container">
   <iframe src="https://youtu.be/CncOLLe6Org" frameborder="0" allowfullscreen="true"> </iframe>
